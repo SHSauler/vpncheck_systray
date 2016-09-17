@@ -1,0 +1,2 @@
+Simple minded systray application that informs you whether you are currently using a TUN interface, i.e. are connected via VPN.
+It's simple minded insofar as the presence of a TUN-interface is not sufficient to guarantee VPN connectivity!
